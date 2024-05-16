@@ -1,3 +1,3 @@
-console.log("hello world")
-let nombre = "jesus"
+console.log("Hello world")
+let nombre = "Jesus"
 console.log(nombre)
